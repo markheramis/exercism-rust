@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "sublist"
+		},
+		{
+			"path": "semi-structured-logs"
+		},
+		{
+			"path": "lucians-luscious-lasagna"
+		}
+	],
+	"settings": {
+		"rust-analyzer.assist.emitMustUse": true
+	}
+}
